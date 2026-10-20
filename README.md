@@ -80,8 +80,7 @@
 
 ## 💡4. 작품 소개영상
 
-(유튜브 링크가 생기면 아래 줄을 바꿔 주세요)
-<!-- [![작품 소개영상](유튜브 썸네일 주소)](유튜브 영상 주소) -->
+<!-- [![작품 소개영상](유튜브 썸네일 주소)](유튜브 영상 주소) -->https://www.youtube.com/watch?si=nMOO3sSLv_0f5RjP&v=jxMwJrnFLvk&feature=youtu.be
 
 ---
 
